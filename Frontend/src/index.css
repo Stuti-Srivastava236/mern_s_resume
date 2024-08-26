@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/global.css */
+@media (min-width: 1024px) {
+    .text-lg {
+      font-size: 1.125rem;
+    }
+  
+    .p-6 {
+      padding: 2rem;
+    }
+  }
+  
+  
